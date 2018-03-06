@@ -1,0 +1,16 @@
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\HelloWorldTestProject.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\HelloWorldTestProject.pdb
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Lesson1.exe
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Lesson1.pdb
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Lesson1.exe.config
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.dll
+C:\Users\Alex\Source\Repos\New-COMP123_L1\Lesson1\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.pdb
